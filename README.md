@@ -52,16 +52,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhushanphirke&show_icons=true" />
-
-</p>
-
----
-
 # 🌱 Current Goals
 
 🔥 Build production-level Full Stack projects  
@@ -72,8 +62,8 @@
 
 # 🌐 Connect
 
-💼 LinkedIn → Add your profile  
-💻 Portfolio → Add website  
+💼 LinkedIn → www.linkedin.com/in/bhushan-phirke
+  
 
 ---
 
