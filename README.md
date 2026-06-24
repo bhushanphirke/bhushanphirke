@@ -35,10 +35,11 @@
 ✔ Attendance Tracking  
 ✔ Dashboard UI  
 ✔ Organized Data  
+✔ Azure Integration
 
 ### 🔧 Service Booking System
 ✔ Booking Flow  
-✔ Backend Integration  
+✔ Backend Integration 
 ✔ Responsive Design  
 
 ### 💻 DSA in C++
