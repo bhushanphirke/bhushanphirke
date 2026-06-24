@@ -39,7 +39,7 @@
 
 ### 🔧 Service Booking System
 ✔ Booking Flow  
-✔ Backend Integration 
+✔ Backend Integration  
 ✔ Responsive Design  
 
 ### 💻 DSA in C++
@@ -49,7 +49,9 @@
 
 ### 🎨 Landing Page Collection
 ✔ Modern UI  
-✔ Responsive Layout  
+✔ Responsive Layout   
+  eg., [monster-landing-page.netlify.app](https://landing-page-bhushan.netlify.app/)
+
 
 ---
 
