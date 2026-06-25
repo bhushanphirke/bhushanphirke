@@ -50,7 +50,7 @@
 ### 🎨 Landing Page Collection
 ✔ Modern UI  
 ✔ Responsive Layout   
-  eg., [monster-landing-page.netlify.app](https://monster-landing-page.netlify.app/)
+✔ eg., [monster-landing-page.netlify.app](https://monster-landing-page.netlify.app/)
 
 
 ---
