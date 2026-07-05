@@ -90,13 +90,13 @@ public:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushanphirke&show_icons=true&theme=chartreuse-dark&rank_icon=github)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhushanphirke&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanphirke&layout=compact&theme=chartreuse-dark&langs_count=8)
+
 
 ---
 
