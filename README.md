@@ -121,4 +121,3 @@ while (alive)
 }
 ```
 
-> **"Every expert was once a beginner who refused to quit."** 🚀
