@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bhushan Phirke
+# 👋 Hey, I'm Bhushan Phirke.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00FF41&width=800&lines=Full+Stack+Developer;Building+Real+Projects;DSA+in+C%2B%2B;Think.+Code.+Build.+Repeat.;Always+Learning+Something+New)
 
