@@ -105,7 +105,7 @@ public:
 - **GitHub:** https://github.com/bhushanphirke
 - **LinkedIn:** https://www.linkedin.com/in/bhushan-phirke
 - **Email:** bhushanphirke314@gmail.com
-- **portfolio:**https://bhushanphirke.vercel.app/
+- **portfolio:** https://bhushanphirke.vercel.app/
 
 ---
 
