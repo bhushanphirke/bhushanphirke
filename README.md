@@ -74,7 +74,11 @@ public:
 - Arrays
 - Recursion
 - Sorting
+- Binary Search
 - Searching
+- Linked list
+- Stack
+- Queue
 - Trees
 - Graphs
 - Dynamic Programming
