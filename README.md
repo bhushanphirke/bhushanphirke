@@ -79,9 +79,6 @@ public:
 - Linked list
 - Stack
 - Queue
-- Trees
-- Graphs
-- Dynamic Programming
 
 ---
 
